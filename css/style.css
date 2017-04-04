@@ -1,0 +1,33 @@
+@font-face {
+	font-family: Lato-Reg;
+	src: url("../framework/fonts/Lato-Regular.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: Lato-Light;
+	src: url("../fonts/Lato-Light.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: Lato-Hairline;
+	src: url("../fonts/Lato-Hairline.ttf") format("truetype");
+}
+
+header {
+	font-family: Lato-Light;
+	color: #BCBBBB;
+	
+}
+
+.text-large {
+	font-size: 60px;
+}
+
+.text-muted {
+	color: #BCBBBB;
+}
+
+.text-caption {
+	color: #747704;
+	font-size: 40px;
+}
